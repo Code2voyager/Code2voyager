@@ -1,6 +1,6 @@
 ## Hi , I'm Nidhi👋
 
-👨‍💻 Full Stack Developer | Performance Optimizer | Cloud Enthusiast
+👨‍💻 Software Engineer | Performance Optimizer | Cloud Enthusiast
 🎓 Postgraduate Degree in Web Development from Conestoga College, Canada.
 🎓 Bachelor of Engineering in Computer Engineering from the University of Mumbai, India.
 💡 Passionate about transforming ideas into high-performing, scalable applications.
